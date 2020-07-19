@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
-<<<<<<< HEAD
-=======
     <fieldPermissions>
         <editable>false</editable>
         <field>Skill_set__c.New_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
->>>>>>> b1
+
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
@@ -452,13 +450,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-<<<<<<< HEAD
-=======
         <name>ManageReleaseUpdates</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
->>>>>>> b1
         <name>ManageRemoteAccess</name>
     </userPermissions>
     <userPermissions>
@@ -683,13 +678,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-<<<<<<< HEAD
-=======
         <name>ViewPlatformEvents</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
->>>>>>> b1
         <name>ViewPublicDashboards</name>
     </userPermissions>
     <userPermissions>
