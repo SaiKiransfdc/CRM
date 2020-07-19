@@ -4,10 +4,11 @@
   <members>Skill_set__c.New_Field__c</members>
   <name>CustomField</name>
  </types>
-    <types>
+  <types>
      <members>admin</members>
-    <members>Standard</members>
+     <members>Standard</members>
+     <members>Standard</members>
      <name>Profile</name>
-    </types>
+  </types>
     <version>48.0</version>
 </Package>
