@@ -3,8 +3,8 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Skill_set__c.New_Field__c</field>
         <readable>false</readable>
-        <readable>true</readable>
       </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
