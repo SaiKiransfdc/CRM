@@ -497,9 +497,9 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Test__c.Test__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -551,9 +551,6 @@
         <field>student__c.imagpic__c</field>
         <readable>true</readable>
     </fieldPermissions>
-        <readable>false</readable>
-        <readable>true</readable>
-      </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
