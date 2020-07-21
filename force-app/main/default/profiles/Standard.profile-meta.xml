@@ -551,6 +551,9 @@
         <field>student__c.imagpic__c</field>
         <readable>true</readable>
     </fieldPermissions>
+        <readable>false</readable>
+        <readable>true</readable>
+      </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
