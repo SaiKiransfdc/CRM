@@ -4,7 +4,11 @@
   <members>Skill_set__c.New_Field__c</members>
   <name>CustomField</name>
  </types>
-  <types>
+ <types>
+  <members>*</members>
+  <name>CustomField</name>
+ </types>
+   <types>
      <members>admin</members>
      <members>Standard</members>
      <members>Standard</members>
